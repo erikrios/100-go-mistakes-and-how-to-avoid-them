@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KirimData</string>
+    <string name="input_teks_disini">Input teks disini</string>
+    <string name="kirim_pesan">KIRIM PESAN</string>
+    <string name="erik_rio_setiawan">Erik Rio Setiawan</string>
+    <string name="textview">TextView</string>
+</resources>
